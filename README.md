@@ -1,6 +1,6 @@
-### 🩸  Contents 🩸
+### 🩸 Contents 🩸
 
-<a><img src="https://i.pinimg.com/originals/72/34/77/723477bacaf41ad309f87d410037fa9f.gif" width="30%" height="40%" title="🙂" align="right"></a>
+<a><img src="https://i.pinimg.com/originals/b0/d6/55/b0d655db115aedc3ddfacfddce046608.gif" width="50%" height="40%" title="🙂" align="right"></a>
 <br/><br/>
 
 - <b>[🖥️ GRUB Themes](#previews)</b>
@@ -14,7 +14,7 @@ Working on more... so I'll add them :)
 
 
 ## Installation
-##1.
+#1.
 <a><img src="https://i.pinimg.com/originals/04/15/cf/0415cfd2c29540261c950ed839829e63.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository and unzip
