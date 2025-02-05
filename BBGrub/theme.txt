@@ -7,14 +7,14 @@ terminal-width: "100%"
 terminal-height: "100%"
 
 + boot_menu {
-  left = 160
+  left = 180
   top = 50%
   width = 472
   height = 35%
   item_color = "#E5E4BB"
   selected_item_color = "#ffffff"
-  icon_width = 36
-  icon_height = 36
+  icon_width = 30
+  icon_height = 30
   item_icon_space = 20
   item_height = 40
   item_padding = 2
@@ -23,7 +23,7 @@ terminal-height: "100%"
 }
 
 + label {
-  left = 160
+  left = 180
   top = 70%
   align = "center"
   id = "__timeout__"
