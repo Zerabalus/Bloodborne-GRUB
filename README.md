@@ -1,3 +1,8 @@
+## Previews
+<div align="center" style="display:inline">
+<img alt="Grubprev" src="BBGrubexample.png" width="1016px" />
+</div>
+
 ### 🩸 Contents 🩸
 
 <a><img src="https://i.pinimg.com/originals/b0/d6/55/b0d655db115aedc3ddfacfddce046608.gif" width="50%" height="40%" title="🙂" align="right"></a>
@@ -48,3 +53,5 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
 - Reboot
+
+
