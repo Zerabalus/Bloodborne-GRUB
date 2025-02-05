@@ -14,13 +14,13 @@ Working on more... so I'll add them :)
 
 
 ## Installation
-#1.
+(#1.)
 <a><img src="https://i.pinimg.com/originals/04/15/cf/0415cfd2c29540261c950ed839829e63.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository and unzip
 
 ```
-    git clone https://github.com/Zerabalus/Boodborne-GRUB
+    git clone https://github.com/Zerabalus/Bloodborne-GRUB
 ```
 
 
